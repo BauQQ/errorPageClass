@@ -3,7 +3,7 @@
 /**
  * Description of Error
  *
- * @author Kasper
+ * @author Explicit
  */
 class ErrorHandle {
 
